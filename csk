@@ -5,6 +5,8 @@ public class MultiplyTwoNumbers {
         fl first = 1.5f;
         second = 2.0f;
 
+ggfgfhgfhfgf
+
         float product = first * ;
 
         System.out.println("The product is: " + product);
