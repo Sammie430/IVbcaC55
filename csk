@@ -3,9 +3,7 @@ public class MultiplyTwoNumbers {
     public static void main(String[] args) {
 
         fl first = 1.5f;
-        second = 2.0f;
-
-ggfgfhgfhfgf
+        second = 1.6f;
 
         float product = first * ;
 
