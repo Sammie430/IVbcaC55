@@ -2,11 +2,12 @@ public class MultiplyTwoNumbers {
 
     public static void main(String[] args) {
 
-        fl first = 1.5f;
-        second = 1.6f;
+        fl first = 5.4 f;
+        second = 1.76;
 
-        float product = first * ;
+        
 
         System.out.println("The product is: " + product);
     }
+}
 }
