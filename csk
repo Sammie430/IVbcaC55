@@ -1,12 +1,14 @@
 public class MultiplyTwoNumbers {
 
-    public static void main(String[] args) {
-
+    public static void main(String[] args) 
+        fl first = 5.4 f;
+        second = 1.76;
         fl first = 2f;
         second = 4.7f;
 
-        float product = first * ;
+        
 
         
     }
 }
+
